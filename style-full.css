@@ -29,6 +29,22 @@
     background-color: rgb(30, 26, 31);
 }
 
+#p1_header{
+        /* Compact padding: top/bottom left/right */
+    padding: 10px 20px; 
+    
+    /* Squeezes container around contents & centers it horizontally */
+    margin: 20px auto;
+    
+    /* Aligns text and image side-by-side cleanly */
+    display: flex;
+    align-items: center;
+    gap: 15px;
+
+    border-radius: 20px;
+    background-color: rgb(63, 55, 66);
+}
+
 #s_album_fax{
     background-color: rgb(209, 55, 155);
 
@@ -83,6 +99,22 @@
 
 #page2{
     background-color: rgb(193, 190, 190);
+}
+
+#p2_header{
+        /* Compact padding: top/bottom left/right */
+    padding: 10px 20px; 
+    
+    /* Squeezes container around contents & centers it horizontally */
+    margin: 20px auto;
+    
+    /* Aligns text and image side-by-side cleanly */
+    display: flex;
+    align-items: center;
+    gap: 15px;
+
+    border-radius: 20px;
+    background-color: rgb(139, 139, 139);
 }
 
 #k_album_fax{
@@ -141,6 +173,21 @@
     background-color: rgb(128, 8, 8);
 }
 
+#p3_header{
+        /* Compact padding: top/bottom left/right */
+    padding: 10px 20px; 
+    
+    /* Squeezes container around contents & centers it horizontally */
+    margin: 20px auto;
+    
+    /* Aligns text and image side-by-side cleanly */
+    display: flex;
+    align-items: center;
+    gap: 15px;
+
+    border-radius: 20px;
+    background-color: rgb(156, 47, 47);
+}
 
 #h_album_fax{
     background-color: rgb(0, 0, 0);
@@ -196,6 +243,24 @@
 
 #page4{
     background-color: rgb(224, 78, 141);
+}
+
+
+
+#p4_header{
+        /* Compact padding: top/bottom left/right */
+    padding: 10px 20px; 
+    
+    /* Squeezes container around contents & centers it horizontally */
+    margin: 20px auto;
+    
+    /* Aligns text and image side-by-side cleanly */
+    display: flex;
+    align-items: center;
+    gap: 15px;
+
+    border-radius: 20px;
+    background-color: rgb(218, 122, 164);
 }
 
 #m_album_fax{
@@ -254,8 +319,24 @@
     background-color: rgb(225, 192, 160);
 }
 
-#m_album_fax{
-    background-color: rgb(176, 122, 78);
+#p5_header{
+     /* Compact padding: top/bottom left/right */
+    padding: 10px 20px; 
+    
+    /* Squeezes container around contents & centers it horizontally */
+    margin: 20px auto;
+    
+    /* Aligns text and image side-by-side cleanly */
+    display: flex;
+    align-items: center;
+    gap: 15px;
+
+    border-radius: 20px;
+    background-color: rgb(193, 161, 121);
+}
+
+#g_album_fax{
+    background-color: rgb(171, 57, 57);
 
     /* Compact padding: top/bottom left/right */
     padding: 10px 20px; 
@@ -272,8 +353,8 @@
     
 }
 
-#m_favs{
-    background-color: rgb(152, 73, 73);
+#g_favs{
+    background-color: rgb(55, 58, 139);
 
     /* Compact padding: top/bottom left/right */
     padding: 10px 20px; 
@@ -289,8 +370,8 @@
     border-radius: 20px;
 }
 
-#m_lines{
-    background-color:  rgb(176, 122, 78);
+#g_lines{
+    background-color:  rgb(171, 57, 57);
 
     /* Compact padding: top/bottom left/right */
     padding: 10px 20px; 
@@ -304,4 +385,94 @@
     gap: 15px;
     
     border-radius: 20px;
+}
+
+
+#page6{
+    background-color: rgb(58, 76, 118);
+}
+
+#p6_header{
+     /* Compact padding: top/bottom left/right */
+    padding: 10px 20px; 
+    
+    /* Squeezes container around contents & centers it horizontally */
+    margin: 20px auto;
+    
+    /* Aligns text and image side-by-side cleanly */
+    display: flex;
+    align-items: center;
+    gap: 15px;
+
+    border-radius: 20px;
+    background-color: rgb(80, 100, 160);
+}
+
+#w_album_fax{
+    background-color: rgb(171, 57, 57);
+
+    /* Compact padding: top/bottom left/right */
+    padding: 10px 20px; 
+    
+    /* Squeezes container around contents & centers it horizontally */
+    margin: 20px auto;
+    
+    /* Aligns text and image side-by-side cleanly */
+    display: flex;
+    align-items: center;
+    gap: 15px;
+
+    border-radius: 20px;
+    
+}
+
+#w_favs{
+    background-color: rgb(55, 58, 139);
+
+    /* Compact padding: top/bottom left/right */
+    padding: 10px 20px; 
+    
+    /* Squeezes container around contents & centers it horizontally */
+    margin: 20px auto;
+
+    /* Aligns text and image side-by-side cleanly */
+    display: flex;
+    align-items: center;
+    gap: 15px;
+
+    border-radius: 20px;
+}
+
+#w_lines{
+    background-color:  rgb(171, 57, 57);
+
+    /* Compact padding: top/bottom left/right */
+    padding: 10px 20px; 
+    
+    /* Squeezes container around contents & centers it horizontally */
+    margin: 20px auto;
+
+    /* Aligns text and image side-by-side cleanly */
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    
+    border-radius: 20px;
+}
+
+#webring{
+    background-color:  rgb(216, 187, 129);
+
+    /* Compact padding: top/bottom left/right */
+    padding: 10px 20px; 
+    
+    /* Squeezes container around contents & centers it horizontally */
+    margin: 20px auto;
+    
+    display: flex;
+    align-items: center;
+    gap: 15px;
+
+    border-radius: 20px;
+
 }
